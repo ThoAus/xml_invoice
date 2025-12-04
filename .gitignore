@@ -1,6 +1,7 @@
 # Custom Python.gitignore file
 xml_files/
 excel_files/
+p7m_files/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
